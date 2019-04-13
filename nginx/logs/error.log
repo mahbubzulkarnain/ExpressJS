@@ -1,0 +1,5 @@
+2019/04/13 21:36:08 [emerg] 6#6: host not found in upstream "node" in /etc/nginx/sites-available/node-https.template.conf:11
+2019/04/13 21:39:21 [emerg] 7#7: host not found in upstream "node" in /etc/nginx/sites-available/node-https.template.conf:11
+2019/04/13 21:41:40 [emerg] 7#7: host not found in upstream "node" in /etc/nginx/sites-available/node-https.template.conf:11
+2019/04/13 21:54:05 [emerg] 6#6: host not found in upstream "node" in /etc/nginx/sites-available/node-https.template.conf:11
+2019/04/13 21:59:23 [emerg] 7#7: host not found in upstream "node" in /etc/nginx/sites-available/node-https.template.conf:11
